@@ -1,6 +1,8 @@
 # lighthouse-autocompletion
 Command line auto-completion for Lighthouse (https://github.com/GoogleChrome/lighthouse)
 
+![image](https://cloud.githubusercontent.com/assets/643503/26367683/3bd7bd8a-3fa4-11e7-8ff1-d9d3e202332e.png)
+
 ## Usage (OH MY ZSH)
 
 If you're like me and using [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh), you can simply grab the zsh file and put into the `~/.oh-my-zsh/custom/plugins/` directory and enable in your `.zshrc` file.
