@@ -7,7 +7,7 @@ If you're like me and using [Oh My Zsh](https://github.com/robbyrussell/oh-my-zs
 
 ```
 # get the plugin
-➜ wget -O ~/.oh-my-zsh/custom/plugins/lighthouse.plugin.zsh
+➜ wget https://raw.githubusercontent.com/justinribeiro/lighthouse-autocompletion/master/lighthouse.plugin.zsh -O ~/.oh-my-zsh/custom/plugins/lighthouse.plugin.zsh
 
 # edit your .zshrc and add lighthouse to plugin list
 ➜ vim .zshrc
